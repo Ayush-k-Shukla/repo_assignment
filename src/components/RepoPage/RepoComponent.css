@@ -1,0 +1,26 @@
+.mainRepoContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.insideRepo {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  flex-basis: 25%;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: rgb(201, 208, 214);
+  padding: 20px;
+  border-radius: 10px;
+  flex-grow: 1;
+}
+
+.language {
+  margin-top: 20px;
+  padding: 5px;
+  background-color: yellowgreen;
+  max-width: fit-content;
+  border-radius: 5px;
+  color: blanchedalmond;
+}

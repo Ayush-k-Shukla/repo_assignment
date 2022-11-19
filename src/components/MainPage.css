@@ -1,0 +1,21 @@
+.mainContainer {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+}
+
+.searchContainer {
+  width: 50%;
+}
+
+.repoContainer {
+  margin-top: 30px;
+  width: 80%;
+}
+.paginationContainer {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
